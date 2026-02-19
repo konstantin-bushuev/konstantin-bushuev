@@ -1,6 +1,6 @@
 ## 👋 Привет! Я Константин
 
-Я QA Engineer (ручное и автоматизированное тестирование)
+QA Engineer (ручное и автоматизированное тестирование)
 
 💼 Открыт к предложениям о работе / стажировке
 
@@ -49,10 +49,8 @@ Here are some ideas to get you started:
 
 ## 📫 Контакты
 
-Email: k.g.bushuev@gmail.com
-
-Telegram: [@k_g_bushuev](https://t.me/k_g_bushuev)
-
-LinkedIn: [konstantin-bushuev](https://www.linkedin.com/in/konstantin-bushuev/)
+- Email: k.g.bushuev@gmail.com
+- Telegram: [@k_g_bushuev](https://t.me/k_g_bushuev)
+- LinkedIn: [konstantin-bushuev](https://www.linkedin.com/in/konstantin-bushuev/)
 
 
