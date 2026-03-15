@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 ## 📂 Проекты
 
-[Проекты в Яндекс.Практикуме](https://github.com/konstantin-bushuev/portfolio-qa-fullstack)
+- [Автоматизированное тестирование API Swagger PetStore](https://github.com/konstantin-bushuev/rest-api-test-framework)
+- [Проекты в Яндекс.Практикуме](https://github.com/konstantin-bushuev/portfolio-qa-praktikum)
 
 ## 📫 Контакты
 
