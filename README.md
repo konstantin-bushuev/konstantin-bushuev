@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 ## 📂 Проекты
 
 - [Автоматизированное тестирование API Swagger PetStore](https://github.com/konstantin-bushuev/petstore-api-automation)
-- [Проекты в Яндекс.Практикуме](https://github.com/konstantin-bushuev/portfolio-qa-praktikum)
+- [Проекты по автоматизированному тестированию в Яндекс.Практикуме](https://github.com/konstantin-bushuev/portfolio-aqa-praktikum)
+- [Проекты по ручному тестированию в Яндекс.Практикуме](https://github.com/konstantin-bushuev/portfolio-qa-praktikum)
 
 ## 📫 Контакты
 
