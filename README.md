@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 | Направление | Компетенции |
 |-------------|------------|
-| Технический стек | Java, Maven, Selenium, JUnit, Mockito, Rest Assured, Postman, SQL, HTML/CSS, JSON, Git, Allure, JaCoCo, DevTools, Linux |
+| Технический стек | Java, Maven, Gradle, Selenium, JUnit, Mockito, Rest Assured, Postman, SQL, HTML/CSS, JSON, Git, Allure, JaCoCo, DevTools, Linux |
 | Архитектура автотестов | POM, разделение слоёв, параметризация, мокирование, генерация тестовых данных |
 | Тестирование и документация | Тест-дизайн, функциональное / регрессионное / unit / API / UI тестирование, веб- / мобильное, тест-кейсы, чек-листы, баг-репорты, отчёты |
 
